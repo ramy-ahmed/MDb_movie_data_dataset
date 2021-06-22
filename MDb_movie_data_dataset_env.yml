@@ -1,0 +1,5 @@
+name: MDb_movie_data_dataset_env
+channels:
+  - conda-forge
+  - defaults
+prefix: /home/ramy/anaconda3/envs/MDb_movie_data_dataset_env
